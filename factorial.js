@@ -1,6 +1,5 @@
 // given integer is n and find factorial of n.
 
-
 const factorial = (n) => {
      let result = 1;
 
