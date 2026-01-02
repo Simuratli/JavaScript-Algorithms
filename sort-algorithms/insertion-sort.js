@@ -18,8 +18,11 @@ const insertionSort = (arr) => {
     return arr
 }
 
+// Best case: O(n)
 
-// Time complexity is O(n^2) for this. 
+// Average case: O(n²)
+
+// Worst case: O(n²)
 
 
 const arr = [8 , 20, -2, -4, -6]

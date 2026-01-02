@@ -27,3 +27,8 @@ const quickSort = (arr) => {
 };
 
 const arr = [8, 20, -2, 4, -6];
+
+// time complexity is 
+// Best case: O(n)
+// Average case: O(nlogn)
+// Worst case: O(n²)
